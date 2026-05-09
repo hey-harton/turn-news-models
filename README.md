@@ -53,7 +53,7 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-4. Konfigurasi Environment:
+4. Konfigurasi Environment: <br>
 Buat file `.env` di root folder dan tambahkan API Key kamu:
 ```plaintext
 GROQ_API_KEY=your_api_key_here
